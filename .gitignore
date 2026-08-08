@@ -3,6 +3,10 @@
 .gemini
 .opencode
 
+# Build output & archives
+**/dist/
+mern-academy.zip
+
 # IDE and Editors
 **/.idea/
 **/.vscode/
